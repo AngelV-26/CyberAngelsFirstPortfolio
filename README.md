@@ -33,8 +33,10 @@ I built this portfolio to:
 
 ⸻
 
-🔗 Please Visit my live project showcase at:
+🔗 Please Visit my live project(s) showcase at:
 https://angelv-26.github.io/CyberAngelsFirstPortfolio/
+https://angelv-26.github.io/OSINT_Report/
+https://github.com/AngelV-26/python-password-rotation-script
 
 ⸻
 
